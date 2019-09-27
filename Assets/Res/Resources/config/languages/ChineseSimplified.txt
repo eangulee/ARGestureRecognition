@@ -1,0 +1,5 @@
+﻿#================= scanner_view ==================#
+ui.home.tips_recognition = 点击按钮开始识别
+ui.home.tips_recognitioning = 请将手势放置在屏幕中心位置，正在识别...
+ui.home.tips_recognition_success = 识别结果:{0:N3}%概率为：{1}
+ui.home.tips_recognition_fail = 识别失败，请重试！
